@@ -1,6 +1,6 @@
 # PageRank in Spark
 
-Data: https://drive.google.com/drive/folders/1IIySfwwyvup2cy2bP4BfFaTYoFUSbWlK (bz2 files. Local run = simple, EMR run = other 4)
+Data: /input (bz2 files. Local run = simple, EMR run = other 4)
 
 Spark programs: /pagerank
 AWS output: aws-output
